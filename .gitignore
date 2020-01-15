@@ -1,0 +1,11 @@
+*.pyc
+*.pem
+*.csv
+*.tar.gz
+*/*.pyc
+*/__pycache__/
+
+*.log
+
+venv
+
